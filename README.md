@@ -93,3 +93,28 @@ graph TD
     %% Kết nối IoT
     B <===>|WiFi - MQTT Pub/Sub| D
     D <===>|MQTT Protocol| E
+
+---
+
+## 4. Ảnh Chụp Phần Cứng Dự Kiến (Hardware Preview)
+
+Dưới đây là hình ảnh thực tế các linh kiện phần cứng, bo mạch vi điều khiển ESP32 và cảm biến dự kiến sử dụng cho dự án:
+
+![Ảnh chụp phần cứng dự kiến](hardware.jpg)
+
+*(Tải file ảnh linh kiện thực tế lên Repo và đặt tên file là `hardware.jpg` để hiển thị)*
+
+---
+
+## 5. Tài Liệu Tham Khảo (References)
+
+1. **Adafruit TCS34725 Color Sensor Tutorial & Library Documentation:**  
+   https://learn.adafruit.com/adafruit-color-sensors
+2. **Sensirion SGP30 Multi-Pixel Gas Sensor Datasheet:**  
+   https://sensirion.com/products/catalog/SGP30/
+3. **Bosch Sensortec BME280 Environmental Sensor Datasheet:**  
+   https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/
+4. **Random Nerd Tutorials - ESP32 MQTT Publish-Subscribe with Node-RED:**  
+   https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
+5. **Hackaday IoT & Smart Agriculture Projects Inspiration:**  
+   https://hackaday.com/
