@@ -61,19 +61,39 @@ Sơ đồ khối kiến trúc luồng dữ liệu và điều khiển của hệ
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/89881b24-636e-497a-80f1-bef1c9895248" />
 
 
-*(Tải file ảnh sơ đồ khối lên Repo và đặt tên file là `block_diagram.png` để hiển thị)*
 
----
 
 ## 4. Ảnh Chụp Phần Cứng Dự Kiến (Hardware Preview)
 
 Dưới đây là hình ảnh thực tế các linh kiện phần cứng, bo mạch vi điều khiển ESP32 và cảm biến dự kiến sử dụng cho dự án:
 
 ![Ảnh chụp phần cứng dự kiến](hardware.jpg)
+<img width="515" height="388" alt="image" src="https://github.com/user-attachments/assets/e78b9c57-6a33-45e8-b365-9869e8034d3f" />
 
-*(Tải file ảnh linh kiện thực tế lên Repo và đặt tên file là `hardware.jpg` để hiển thị)*
 
----
+<img width="270" height="307" alt="image" src="https://github.com/user-attachments/assets/eb3fe0ad-0dd2-4643-9619-26044323565c" />
+
+
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/86f0306d-dca5-4ff4-816e-85cb9fb16eec" />
+<img width="270" height="307" alt="image" src="https://github.com/user-attachments/assets/d26a369e-c090-4c85-b61f-5f16befb0afb" />
+
+
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/97ab0483-60cb-4ed2-821b-558da1922856" />
+<img width="270" height="276" alt="image" src="https://github.com/user-attachments/assets/f4ad3411-f395-4dfe-b983-789cce2f5256" />
+
+<img width="344" height="280" alt="image" src="https://github.com/user-attachments/assets/1799d14e-0f0a-4922-88f1-a224c81fa038" />
+
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/b4be350d-6770-41a0-8e09-d47b881f4fe2" />
+
+
+
+
+
+
+
+
+
+
 
 ## 5. Tài Liệu Tham Khảo (References)
 
