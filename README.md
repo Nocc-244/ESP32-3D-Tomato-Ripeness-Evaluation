@@ -58,6 +58,8 @@ Xây dựng giao diện **Node-RED Dashboard 2.0** tương thích trên cả PC 
 Sơ đồ khối kiến trúc luồng dữ liệu và điều khiển của hệ thống:
 
 ![Sơ đồ khối dự kiến](block_diagram.png)
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/89881b24-636e-497a-80f1-bef1c9895248" />
+
 
 *(Tải file ảnh sơ đồ khối lên Repo và đặt tên file là `block_diagram.png` để hiển thị)*
 
