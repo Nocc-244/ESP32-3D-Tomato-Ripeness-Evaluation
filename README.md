@@ -1,5 +1,8 @@
 # SMART TOMATO RIPENESS & QUALITY EVALUATION SYSTEM
 > **Hệ Thống Phân Loại Độ Chín Và Đánh Giá Chất Lượng Cà Chua Không Phá Hủy Trong Buồng Đo 3D Chuẩn Hóa**
+> Họ và tên : Nguyễn Thị Hà
+> MSV: 23001602
+> Giảng viên hướng dẫn: Nguyễn Anh Tuấn
 
 ---
 
